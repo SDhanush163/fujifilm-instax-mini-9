@@ -6,4 +6,4 @@
 ![jquery](https://img.shields.io/badge/-jquery-0769ad?style=for-the-badge&logo=jQuery)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue?style=for-the-badge)](LICENSE)
 
-> Live Demo available [Here]()
+> Live Demo available [Here](https://sdhanush163.github.io/fujifilm-instax-mini-9/)
